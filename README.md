@@ -8,3 +8,4 @@ This repository is intended to provide examples and explanations of how to archi
 
 [Architectural Principles](Docs/architecturalPrinciples.md)
 
+[Glossary of terms](Docs/glossary.md)
