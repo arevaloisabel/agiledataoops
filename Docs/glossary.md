@@ -7,9 +7,19 @@ This page defines the various words we use within the documents. Since many of t
 
 [A](#a)
 
+[Artefact](#artifact)
+
 [Asset](#asset)
 
-[Artefact](#artifact)
+[D](#d)
+
+[Data Consumer](#data-consumer)
+
+Data Consumers will consume data within the ecosystem. These may create new data products to be consumed elsewhere, or may present data with some kind of presentation layer directly to users or systems.
+
+[Data Provider](#data-provider)
+
+Data Providers create data in the ecosystem. These can be data products which generate new data (source systems, test data, random data) or they can be data products which bring in other data (external data , for instance). Usually these data sources should be registered in a data catalog to make them discoverable. The team is responsible for managing changes to source schemas and their integration into target schemas. Normally the team will include people who also manage the source systems, to ensure this is carried out in a timely manner. 
 
 [P](#p)
 
@@ -19,13 +29,19 @@ This page defines the various words we use within the documents. Since many of t
 
 # A
 
+## Artefact
+
+Artefacts are immutable things which are produced within DevOps processes. They are the things which are deployed in a release pipeline.
+
 ## Asset
 
 Assets "things" which get produced within a project. Products might contain multiple assets which together make up the whole product. An example of an asset would be a Python library or a data set. These can be used together to refine the data and produce the end customer facing product.
 
-## Artefact
+# D
 
-Artefacts are immutable things which are produced within DevOps processes. They are the things which are deployed in a release pipeline.
+## Data Consumer
+
+## Data Provider
 
 # P
 
