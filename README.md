@@ -100,7 +100,7 @@ This is an often misunderstood subject within the data practice since it does no
 
 [Structured Testing](docs/testing.md)
 
-[Introduction to Testing Presentation](presentations/Testing Intro.pptx)
+[Presentation - Introduction to Testing](<presentations/Testing Intro.pptx>)
 
 ### DataOps
 
@@ -108,7 +108,7 @@ DataOps are a set of processes and methods for managing a project and product de
 
 [DataOps](docs/dataOps.md)
 
-[Introduction to DataOps Presentation](presentations/DataOps Intro.pptx)
+[Presentation - Introduction to DataOps](<presentations/DataOps Intro.pptx>)
 
 ### Agile Platform Architecture
 
@@ -116,7 +116,7 @@ Processes such as automation can make delivery more agile, but beyond a certain 
 
 [Architecture](docs/architecture.md)
 
-[Agile Data Platform Introduction Presentation](presentations/Agile Data Architecture Intro.pptx)
+[Presentation - Agile Data Platform Introduction](<presentations/Agile Data Architecture Intro.pptx>)
 
 ## Docs
 
