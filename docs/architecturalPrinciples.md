@@ -6,7 +6,7 @@ These architectural principles will guide the architecture and ensure that it st
 
 ## Minimise Trust
 
-While traditional architectures place trust in a perimeter, cloud architectures must assume they will be attacked, and so require a different approach. No single component can be considered "trusted" and there should be no perimeters, since internal attacks are both more common and more successful than external attacks. As such, authentication, authorisation, and encryption should be included at every component, with strong credential management such as key rotation in place to reduce the time such an attack could be effective.
+While traditional architectures place trust in a perimeter, cloud architectures must assume they will be attacked, and so require a different approach. No single component can be considered "trusted" and there should be no perimeters, since internal attacks are both more common and more successful than external attacks. As such, authentication, authorisation, and encryption should be included at every component, with strong credential management such as key rotation in place to reduce the time such an attack could be effective. This extends to compliance, with every team being responsible for demonstrating strong compliance within their project.
 
 ## Assume Change
 
